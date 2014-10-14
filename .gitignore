@@ -1,0 +1,32 @@
+# Windows binaries
+*.dll
+*.exe
+
+# DGLE
+log.txt
+dgle/
+
+# Visual Studio
+*.suo
+*.user
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+*.ilk
+*.lib
+*.exp
+*.pdb
+ipch/
+*.aps
+*.sdf
+*.opensdf
+
+# Windows
+Desktop.ini
+Thumbs.db
+
+# MacOS X
+*.DS_Store
+
+# Linux
+.directory
