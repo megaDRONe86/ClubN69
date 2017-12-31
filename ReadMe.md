@@ -9,7 +9,7 @@ Winner of [Independent Games Developers Contest](http://igdc.ru) number 69.
 
 This game was mentioned as one of the most remarkable indie games in Russia of August 2011 by "Igromania" game magazine. Also it was published on DVD coming along with printed magazine.
 
-Game uses [DGLE](http://dglengine.org) engine and is a good example of using its low level API in old school procedural style.
+Game uses [DGLE](http://dgle.dronprogs.org) engine and is a good example of using its low level API in old school procedural style.
 
 You can learn more about this game and download compiled binaries on its [page](http://dronprogs.org#project-club69).
 
@@ -25,7 +25,7 @@ Originally game was developed using Microsoft Visual Studio 2010 and compiles on
 But it should be easy to recompile it under any platform supported by the engine almost without any changes.
 
 To build the game you must proceed to these steps:
-* You need to get DGLE binaries and C++ headers from the [official website](http://dglengine.org) or compile latest version from the [sources](https://github.com/DGLE-HQ/DGLE).
+* You need to get DGLE binaries and C++ headers from the [official website](http://dgle.dronprogs.org) or compile latest version from the [sources](https://github.com/DGLE-HQ/DGLE).
 * You need to put compiled "DGLE.dll" into ".\bin\" folder and "Mad.dll" into ".\bin\plugins\" folder.
 * Put "DGLE.h" and "DGLE_Types.h" headers into ".\dgle\" folder.
 * Locate provided project file for Microsoft Visual Studio 2010 in ".\source\" folder.
